@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[the surveillance solution]]></title>
         <description><![CDATA[the surveillance solution]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/southvault/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 17:10:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 17:11:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/southvault/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined35015ba2-c833-47c6-a155-f069e50e4b6b/index.html</link>
+            <description><![CDATA[<p>Designed from the ground up to prevent false alarms, Southvault is a volutionary step from traditional security installations.  SouthVault provides the tools and technology necessary to catch criminals today. In addition, Videofied Security Panels are completely wireless and self-powered, isolating them from power outages, tampering, and cut phone lines.</p>]]></description>
+            <link>https://thegrid.ai/southvault/59236896-ad42-4446-9896-bbc0a6c7e1d9/index.html</link>
+            <guid isPermaLink="false">59236896-ad42-4446-9896-bbc0a6c7e1d9</guid>
+            <pubDate>Thu, 04 Feb 2016 17:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/southvault/35015ba2-c833-47c6-a155-f069e50e4b6b/index.html</link>
             <guid isPermaLink="false">35015ba2-c833-47c6-a155-f069e50e4b6b</guid>
             <pubDate>Thu, 04 Feb 2016 17:10:03 GMT</pubDate>
         </item>
