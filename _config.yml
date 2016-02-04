@@ -1,29 +1,41 @@
-name: Southvault
-favicon: null
-layout_spectrum: 0.73515
-typography_spectrum: 0.72464
 title: Southvault - the surveillance solution
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6875
+  brandStrength: 0.5625
+  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#110e09'
     - '#484137'
     - '#d6c7b2'
     - '#fae211'
-  brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Southvault
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.72464
+layout_spectrum: 0.5617021
