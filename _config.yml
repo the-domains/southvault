@@ -1,0 +1,28 @@
+name: Southvault
+favicon: null
+layout_spectrum: 0.6701101781800389
+typography_spectrum: 0.8287970735691488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7832076044287533
+  lightness: 0.7017942366655916
+  saturation: 0.8849982905667275
+  rhythmicContrast: 0.7002970643807203
+purpose: []
